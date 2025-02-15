@@ -1,0 +1,2 @@
+D:/Raj parihar/work/Paid Projects/PC Prodigy/techy_store/android/app/.cxx/RelWithDebInfo/4t4l4w6f/x86_64/CMakeFiles/edit_cache.dir
+D:/Raj parihar/work/Paid Projects/PC Prodigy/techy_store/android/app/.cxx/RelWithDebInfo/4t4l4w6f/x86_64/CMakeFiles/rebuild_cache.dir
